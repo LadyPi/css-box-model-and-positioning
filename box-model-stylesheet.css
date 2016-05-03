@@ -4,6 +4,9 @@
 	background-color: gray;
 }
 #square1 {
+	position: relative;
+	top: 0px;
+	left: 40px;
 	background-color: red;
 	height: 100px;
 	width: 100px;
@@ -20,6 +23,7 @@
 }
 #square4 {
 	background-color: black;
+	color: white;
 	height: 100px;
 	width: 100px;
 }
